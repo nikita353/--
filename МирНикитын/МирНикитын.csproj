@@ -7,4 +7,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\..\..\Users\Никита\source\repos\Новая\НикитынаБиблиотека\НикитынаБиблиотека.csproj" />
+  </ItemGroup>
+
 </Project>

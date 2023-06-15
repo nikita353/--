@@ -5,6 +5,8 @@ VisualStudioVersion = 17.7.33808.371
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "МирНикитын", "МирНикитын\МирНикитын.csproj", "{0D117902-FBB8-4646-9E69-44615AD4B6E6}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "НикитынаБиблиотека", "..\..\..\..\Users\Никита\source\repos\Новая\НикитынаБиблиотека\НикитынаБиблиотека.csproj", "{B15AC2F5-E6FC-4C30-94F7-6631CD18F582}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{0D117902-FBB8-4646-9E69-44615AD4B6E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0D117902-FBB8-4646-9E69-44615AD4B6E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0D117902-FBB8-4646-9E69-44615AD4B6E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B15AC2F5-E6FC-4C30-94F7-6631CD18F582}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B15AC2F5-E6FC-4C30-94F7-6631CD18F582}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B15AC2F5-E6FC-4C30-94F7-6631CD18F582}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B15AC2F5-E6FC-4C30-94F7-6631CD18F582}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
